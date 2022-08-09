@@ -18,5 +18,5 @@
 ### v1.0
 - trc_v1.0.exe 支持trc链钱包获取
 - evm_v1.0.exe 支持erc,oec,bsc,heco四条链钱包获取
-- btc_v1.0.exe 支持trc链钱包获取
+- btc_v1.0.exe 支持btc链钱包获取
 
