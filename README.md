@@ -10,7 +10,8 @@
 
 ##使用流程
 -  下载软件
--  添加客服
+-  运行软件获取licensecode
+-  添加客服出示licensecode
 -  获取试用
 -  购买授权
 
@@ -19,4 +20,5 @@
 - trc_v1.0.exe 支持trc链钱包获取
 - evm_v1.0.exe 支持erc,oec,bsc,heco四条链钱包获取
 - btc_v1.0.exe 支持btc链钱包获取
+
 
